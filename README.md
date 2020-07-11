@@ -9,6 +9,6 @@ Please download the executable in https://github.com/alpaddesai/Sales/releases f
 Images are custom
 
 ## Sales Management 
-
+![image](SalesManagement.png)
 
 ## Social Networking
