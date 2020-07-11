@@ -1,4 +1,4 @@
-# Sales
+# Sales Management
 
 The project provides an introduction to the Sales Management Process
 
