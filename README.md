@@ -1,6 +1,6 @@
 # Sales
 
-The project provides an introduction to the Slaes Management Process
+The project provides an introduction to the Sales Management Process
 
 Confidential information is not displayed.
 
