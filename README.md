@@ -18,4 +18,4 @@ Images are custom
 ![image](Image_cdsn.png)
 ![image](image_ter.png)
 
-Reference: https://github.com/alpaddesai/RealEstatePortfolioIdea
+Reference: https://github.com/alpaddesai/PowerandInfluentialSkills
