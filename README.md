@@ -11,7 +11,7 @@ Images are custom
 ## Sales Management 
 ![image](SalesManagement.png)
 
-## Social Networking / Brand Management / Prestige
+## Social Networking / Prestige
 ![image](SocialNetworking.png)
 
 ## Interest
