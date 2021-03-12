@@ -10,6 +10,7 @@ Images are custom
 
 ## Sales Management 
 ![image](SalesManagement.png)
+![image](Sales.jpg)
 
 ## Social Networking / Prestige
 ![image](SocialNetworking.png)
