@@ -12,8 +12,4 @@ Images are custom
 ![image](SalesManagement.png)
 ![image](Sales.jpg)
 
-## Interest
-![image](Image_cdsn.png)
-![image](image_ter.png)
-
 Reference: https://github.com/alpaddesai/PowerandInfluentialSkills
