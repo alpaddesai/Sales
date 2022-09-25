@@ -12,4 +12,6 @@ Images are custom
 ![image](SalesManagement.png)
 ![image](Sales.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Reference: https://github.com/alpaddesai/PowerandInfluentialSkills
