@@ -14,6 +14,6 @@ Images are custom
 
 ![image](USCopyrightCertificate.png)
 
-![image](Ethics.jgp)
+![image](Ethics.jpg)
 
 Reference: https://github.com/alpaddesai/PowerandInfluentialSkills
