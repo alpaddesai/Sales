@@ -16,4 +16,4 @@ Images are custom
 
 ![image](Ethics.jpg)
 
-Reference: https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea2022
+Reference: https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
